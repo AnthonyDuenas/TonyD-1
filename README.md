@@ -1,8 +1,12 @@
-# TonyD-1
-# Assignment 4
+# My Project
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)
+Welcome to my GitHub project!  
 
+## Features  
+- Feature 1  
+- Feature 2  
 
+## Installation  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
